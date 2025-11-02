@@ -1,4 +1,20 @@
+---
+---
+
 @import "{{ site.theme }}";
+
+body {
+  background-color: #000;
+  color: #a6a6a6;
+}
+
+a {
+  color: #3391ff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ddd;
+}
 
 .wrapper {
   max-width: 1200px;
