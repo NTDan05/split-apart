@@ -17,6 +17,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wrapper {
-  width: 1200px;
+  max-width: 1200px !important;
+  width: auto !important;
   padding: 0 20px;
+}
+
+section {
+  width: calc(100% - 320px) !important;
 }
