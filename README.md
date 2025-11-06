@@ -13,11 +13,9 @@ Essentially, think Agar.io + Fireboy and Watergirl as a single mechanic!
 This demo includes 2 tutorial levels to get players used to the complex controls required for this mechanic and 3 mechanically complete and playable levels to showcase the potential usage of this mechanic. You can download and play the demo below!
 
 # Screenshots
-<img src="assets/screenshots/tutorial_1.png" alt="Tutorial 1" height="200"/>
-<img src="assets/screenshots/tutorial_2.png" alt="Tutorial 2" height="200"/>
-<img src="assets/screenshots/level_1.png" alt="Level 1" height="200"/>
-<img src="assets/screenshots/level_2.png" alt="Level 2" height="200"/>
-<img src="assets/screenshots/level_3.png" alt="Level 3" height="200"/>
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="assets/screenshots/tutorial_1.png" alt="Tutorial 1" height="200"/> | <img src="assets/screenshots/tutorial_2.png" alt="Tutorial 2" height="200"/> | <img src="assets/screenshots/level_1.png" alt="Level 1" height="200"/> | <img src="assets/screenshots/level_2.png" alt="Level 2" height="200"/> | <img src="assets/screenshots/level_3.png" alt="Level 3" height="200"/> |
 
 # Video Demo
 
