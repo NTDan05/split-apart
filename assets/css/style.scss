@@ -22,5 +22,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 section {
-  width: 100% !important;
+  width: calc(100% - 320px) !important;
+}
+
+@media print, screen and (max-width: 960px) {
+  section {
+    width: 100% !important;
+  }
 }
