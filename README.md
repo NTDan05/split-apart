@@ -27,8 +27,11 @@ This demo includes 2 tutorial levels to get players used to the complex controls
 <div class="profile">
   <img src="assets/screenshots/profile.png" alt="Author Profile" class="profile-img" />
   <div class="profile-text">
+    <h2>
+      Thanh Nguyen
+    </h2>
     <p>
-      Thanh Nguyen is a student at George Mason University majoring in both Computer Science and Math.
+      Thanh Nguyen (Thành) is a student at George Mason University majoring in both Computer Science and Math.
       He loves all things related to video games, including playing them and making them. With his limited
       art skills, he prefers to work on the programming and design side of things. Besides games, he also
       has a vested interest in math, specifically pure math and theoretical computer science.
