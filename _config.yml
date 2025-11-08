@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Split Apart
 description: Mini-game prototype for a mechanic demo for GMU CS 325 Fall 2025
 show-downloads: true
+logo: /assets/screenshots/logo.png
