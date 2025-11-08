@@ -14,11 +14,11 @@ This demo includes 2 tutorial levels to get players used to the complex controls
 
 # Screenshots
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="assets/screenshots/tutorial_1.png" alt="Tutorial 1" height="225"/>
-  <img src="assets/screenshots/tutorial_2.png" alt="Tutorial 2" height="225"/>
-  <img src="assets/screenshots/level_1.png" alt="Level 1" height="225"/>
-  <img src="assets/screenshots/level_2.png" alt="Level 2" height="225"/>
-  <img src="assets/screenshots/level_3.png" alt="Level 3" height="225"/>
+  <img src="assets/images/tutorial_1.png" alt="Tutorial 1" height="225"/>
+  <img src="assets/images/tutorial_2.png" alt="Tutorial 2" height="225"/>
+  <img src="assets/images/level_1.png" alt="Level 1" height="225"/>
+  <img src="assets/images/level_2.png" alt="Level 2" height="225"/>
+  <img src="assets/images/level_3.png" alt="Level 3" height="225"/>
 </div>
 
 # Video Demo
@@ -29,7 +29,7 @@ This demo includes 2 tutorial levels to get players used to the complex controls
 
 # Author Profile
 <div class="profile">
-  <img src="assets/screenshots/profile.png" alt="Author Profile" class="profile-img" />
+  <img src="assets/images/profile.png" alt="Author Profile" class="profile-img" />
   <div class="profile-text">
     <h2>
       Thanh Nguyen
