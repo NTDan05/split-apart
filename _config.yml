@@ -3,3 +3,6 @@ title: Split Apart
 description: Mini-game prototype for a mechanic demo for GMU CS 325 Fall 2025
 show_downloads: true
 logo: /assets/screenshots/logo.png
+github:
+  zip_url: https://github.com/ntdan05/split-apart/raw/main/downloads/split_apart.zip
+  tar_url: https://github.com/ntdan05/split-apart/raw/main/downloads/split_apart.tar
