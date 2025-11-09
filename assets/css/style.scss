@@ -66,9 +66,35 @@ section {
   border: 0;
 }
 
+ul.downloads {
+  background: #0b0b0b;
+  border: 1px solid #1f1f1f;
+}
+
 .downloads li {
   width: 135px;
   box-sizing: border-box;
+  border-right: 1px solid #1f1f1f;
+}
+
+.downloads a {
+  color: #a9a9a9;
+}
+
+.downloads a:hover, .downloads a:focus {
+  color: #98A3A3;
+}
+
+.downloads ul a:active {
+  background-color: #0f0f0f;
+}
+
+strong {
+  color: #ddd;
+}
+
+.downloads a strong {
+  color: #ddd;
 }
 
 @media print, screen and (max-width: 960px) {
