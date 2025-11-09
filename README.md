@@ -24,7 +24,7 @@ This demo includes 2 tutorial levels to get players used to the complex controls
 # Video Demo
 
 <div class="responsive-iframe">
-  <iframe src="https://www.youtube.com/embed/tgbNymZ7vqY" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/zbsg4Vjnxdw" allowfullscreen="true"> </iframe>
 </div>
 
 # Author Profile
