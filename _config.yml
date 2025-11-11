@@ -5,5 +5,5 @@ show_downloads: true
 logo: /assets/images/logo.png
 downloads:
   win_url: https://github.com/ntdan05/split-apart/raw/main/downloads/split_apart_win.zip
-  mac_url: https://github.com/ntdan05/split-apart/raw/main/downloads/split_apart_mac.zip
-  linux_url: https://github.com/ntdan05/split-apart/raw/main/downloads/split_apart_linux.zip
+  mac_url: https://github.com/ntdan05/split-apart/raw/main/downloads/split_apart_mac.tar
+  linux_url: https://github.com/ntdan05/split-apart/raw/main/downloads/split_apart_linux.tar
