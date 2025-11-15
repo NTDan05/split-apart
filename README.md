@@ -10,7 +10,7 @@ This main mechanic for this demo is the ability for the player to split themself
 
 Essentially, think Agar.io + Fireboy and Watergirl as a single mechanic!
 
-This demo includes 2 tutorial levels to get players used to the complex controls required for this mechanic and 3 mechanically complete and playable levels to showcase the potential usage of this mechanic. You can download and play the demo below!
+This demo includes 2 tutorial levels to get players used to the complex controls required for this mechanic and 3 mechanically complete and playable levels to showcase the potential usage of this mechanic. You can download and play the demo right now!
 
 # Screenshots
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
